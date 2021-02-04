@@ -2,7 +2,7 @@
 
 This is a mouse guide use for precision voice commands.  
 
-To get this to work, drag these two files into the user directory of your Talon home folder.   
+To get this to work, put mouse_guide.talon and mouse_guide.py into the user directory of your Talon home folder.   
 
 
 When you turn on talon, a crosshair guide will appear on your mouse.  The crosshairs will have hash marks.  

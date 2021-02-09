@@ -18,17 +18,17 @@ to move the mouse down ten units.
 
 You can use the commad 
 
-> mouse 10 major down" 
+> mouse 10 major down 
 
 To move the command down ten major hash marks on the crosshairs. 
 
 You can also combine commands: for example, 
 
-> Mouse 10 major up 30 major right" 
+> Mouse 10 major up 30 major right 
 
 to move the command up and to the right in a diagonal. 
 
 To toggle the crosshairs on and off, say 
 
-"mouse guide" 
+>mouse guide 
 

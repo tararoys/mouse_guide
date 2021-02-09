@@ -1,11 +1,12 @@
 # Precision Mouse Guide Instructions
 
-This is a mouse guide used for precision voice commands.  
+This is a very precise voice-controlled mouse for Talon.   
 
-To get this to work, put mouse_guide.talon and mouse_guide.py into the user directory of your Talon home folder. 
+To get this to work, put mouse_guide.talon and mouse_guide.py into the user directory of your Talon home folder, ~/.talon/user on Linux and Mac or%APPDATA%\Talon\user 
 
 You can do this either by copying these files directly, or with a shell command.    
 
+> git clone https://github.com/tararoys/mouse_guide.git
 
 When you turn on talon, a crosshair guide will appear on your mouse.  The crosshairs will have hash marks.  
 

@@ -2,7 +2,7 @@
 
 This is a very precise voice-controlled mouse scrip for Talon, which creates a voice-controlled mouse that can be used on  Windows, macOS, and Linux.    
 
-To get this to work, put mouse_guide.talon and mouse_guide.py into the user directory of your Talon home folder, ~/.talon/user on Linux and Mac or%APPDATA%\Talon\user 
+To get this to work, put mouse_guide.talon and mouse_guide.py into the user directory of your Talon home folder, ~/.talon/user on Linux and Mac or %APPDATA%\Talon\user on Windows.
 
 You can do this either by copying these files directly, or with a shell command.    
 
